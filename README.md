@@ -47,10 +47,8 @@ Labels are present in both image and the folder names. All triads in ‘structur
 @article{williams2024multimodal,
   title={Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark},
   author={Williams, Evan M and Carley, Kathleen M},
-  booktitle={International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation},
-  year={2024},
-  url = {https://arxiv.org/abs/2405.06634},
-  organization={Springer}
+  journal={arXiv preprint arXiv:2405.06634},
+  year={2024}
 }
 ```
 
