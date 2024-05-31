@@ -1,9 +1,6 @@
 # VNA_Benchmark
-Data can be found here: https://figshare.com/articles/dataset/Multimodal_LLMs_Struggle_with_Basic_Visual_Network_Analysis_a_Visual_Network_Analysis_Benchmark/25938448
+Data can be downloaded here: https://figshare.com/articles/dataset/Multimodal_LLMs_Struggle_with_Basic_Visual_Network_Analysis_a_Visual_Network_Analysis_Benchmark/25938448
 
-Data for the paper "Multimodal LLMs Struggle with Basic Visual Network Analysis: a Visual Network Analysis Benchmark"
-
-Code will be added shortly.
 ## Visual Network Analysis Benchmark
 
 This repository contains the data and labels for “Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark”
